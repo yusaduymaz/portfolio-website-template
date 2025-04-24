@@ -1,8 +1,9 @@
+
 # 🌐 DuymazYUSA - Personal Portfolio Website
 
 This is an open-source, fully responsive personal portfolio website built to showcase your work, skills, and certifications in a clean and visually engaging format.
 
-🔗 **Live Demo:** [duymazyusa.infinityfreeapp.com](https://duymazyusa.infinityfreeapp.com/?i=2)
+🔗 **Live Demo:** [duymazyusa.infinityfreeapp.com]
 
 ---
 
@@ -51,4 +52,3 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 _Add screenshots here if you'd like to show examples of the layout (e.g., home page, projects section, etc.)_
 
 ---
-
