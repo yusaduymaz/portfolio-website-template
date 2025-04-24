@@ -1,5 +1,5 @@
 
-# 🌐 DuymazYUSA - Personal Portfolio Website
+# 🌐 Yuşa Duymaz - Personal Portfolio Website
 
 This is an open-source, fully responsive personal portfolio website built to showcase your work, skills, and certifications in a clean and visually engaging format.
 
